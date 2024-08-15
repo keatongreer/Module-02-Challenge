@@ -182,7 +182,7 @@ main {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-.flex-item div {
+.flex-item section {
   background-color: var(--secondary);
   padding: 8px 10px;
 }
@@ -221,24 +221,25 @@ main {
 
 /* portfolio project images */
 /* TODO: Add portfolio project images here using background images*/
-.run-buddy {
-  
+
+.placeholder-one {
+  background-image: url(../images/placeholder1.jpg);
 }
 
-.led-wall {
-  
+.placeholder-two {
+  background-image: url(../images/placeholder2.jpg);
 }
 
-.react-calc {
-  
+.placeholder-three {
+  background-image: url(../images/placeholder5.jpg);
 }
 
-.pastel-puzzles {
-  
+.placeholder-four {
+  background-image: url(../images/placeholder4.jpg);
 }
 
-.surf-report {
-  
+.horiseon {
+  background-image: url(../images/placeholder3.jpg);
 }
 
 /* media queries */
